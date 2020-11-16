@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img height=150px src="foto-logo.png">
+    <img height=150px style="border-radius:50%" src="foto-logo.png">
 </h1>
 
 <h2 align="center">
